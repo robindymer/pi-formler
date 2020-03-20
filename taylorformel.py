@@ -3,7 +3,7 @@
 """
 import math
 
-def walter_approx(n):
+def taylor_approx(n):
     pi = 1
     for i in range(1, n+1):
         nu = 1
